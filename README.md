@@ -2,8 +2,7 @@
 
 ** Add Binder badge and link here**
 
-Hi Professor and Facu! While adding my Binder Badge to my hw06 repository, I accidentally edited and committed my hw05 repository instead. I would greatly appreciate it if my hw05 is not considered "late" because of the most recent commit because it was a quick mistake I resolved while working on hw06.
-Thank you so much for your understanding!
+Hi Facu! While adding my Binder Badge to my hw06 repository, I accidentally edited and committed my hw05 repository instead. My most recent commit resolved the issue and my Binder Badge should now be correct. Thank you again for your understanding!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-wendykimm/HEAD?labpath=index.ipynb)
 
